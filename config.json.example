@@ -1,0 +1,28 @@
+{
+    "token": "",
+     "serverID": "889100027098693712",
+    "announcementChannelID": "889100027664941068",
+    "logChannelID": "889127360702607400",
+    "checks": [
+        {
+            "name": "hku.edu.tr",
+            "url": "https://hku.edu.tr",
+            "selector": "#announcements"
+        },
+        {
+            "name": "öğrenci işleri",
+            "url": "https://oim.hku.edu.tr",
+            "selector": "#post-2298 > div > div.vc_row.wpb_row.vc_row-fluid.vc_custom_1517236301658.vc_row-o-equal-height.vc_row-flex > div.hk-announcement.wpb_column.vc_column_container.vc_col-sm-4.vc_col-has-fill"
+        },
+        {
+            "name": "bilgisayar mühendisliği",
+            "url": "https://compe.hku.edu.tr",
+            "selector": "#post-2298 > div > div.vc_row.wpb_row.vc_row-fluid.vc_custom_1517236301658.vc_row-o-equal-height.vc_row-flex > div.hk-announcement.wpb_column.vc_column_container.vc_col-sm-4.vc_col-has-fill"
+        },
+        {
+            "name": "mühendislik fakültesi",
+            "url": "https://mf.hku.edu.tr",
+            "selector": "#post-2298 > div > div.vc_row.wpb_row.vc_row-fluid.vc_custom_1517236301658.vc_row-o-equal-height.vc_row-flex > div.hk-announcement.wpb_column.vc_column_container.vc_col-sm-4.vc_col-has-fill"
+        }
+    ]
+}
