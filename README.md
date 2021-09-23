@@ -3,7 +3,7 @@ This application checks hku.edu.tr for announcements and sends them to your Disc
 
 
 # Setup
-1. Install NodeJS from (https://nodejs.org/en/download/)[here].
+1. Install NodeJS from [here](https://nodejs.org/en/download/).
 2. Fork this repository.
 3. Clone your fork by `git clone https://github.com/your-username/hku-announcements-checker.git`
 4. Go to the folder of the project.
